@@ -1,0 +1,41 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NCDF Drivers"
+    id="c330322d-60c2-40a8-875b-53f63ad3273d"
+    documentation="Current Custodian: Severin Waber (CHE)&#xD;&#xA;Initially created by: Severin Waber (CHE)&#xD;&#xA;Rationale:&#xD;&#xA;- ">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="6a21e105-14f2-45ae-834b-18532378ec68"
+      targetConnections="5a26296f-8fc4-49ea-9878-6571c793ff24">
+    <bounds
+        x="528"
+        y="129"
+        width="176"
+        height="72"/>
+    <archimateElement
+        xsi:type="archimate:Driver"
+        href="Driver_8286a91f-2cb8-4aea-aaa4-470f7ccee3ad.xml#8286a91f-2cb8-4aea-aaa4-470f7ccee3ad"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="9b2106f6-eba8-4f1e-8844-090186695914">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="5a26296f-8fc4-49ea-9878-6571c793ff24"
+        source="9b2106f6-eba8-4f1e-8844-090186695914"
+        target="6a21e105-14f2-45ae-834b-18532378ec68">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_2acada89-767c-47e9-90f6-3692d8144c45.xml#2acada89-767c-47e9-90f6-3692d8144c45"/>
+    </sourceConnections>
+    <bounds
+        x="36"
+        y="137"
+        width="360"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_33a947b0-006c-462e-ad52-3d27466b1f97.xml#33a947b0-006c-462e-ad52-3d27466b1f97"/>
+  </children>
+</archimate:ArchimateDiagramModel>

@@ -1,0 +1,4 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="The ability to render available JISR products and reports, likely by exposing “pointers” based on provided metadata back to JISR products/reports residing in Coalition Shared Dataservers (CSDs) or other JISR storage capabilities; this is mostly likely preferable to directly sharing JISR content within the lake"
+    id="id-1584"/>

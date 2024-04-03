@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Essential is"
+    id="45965321-7688-4a22-aa0f-0cc6b3942c9b">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_15612682-b532-4e31-8ae3-23c4b1fe2783.xml#15612682-b532-4e31-8ae3-23c4b1fe2783"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_299bf233-04a7-4533-8733-1645ee1138ed.xml#299bf233-04a7-4533-8733-1645ee1138ed"/>
+</archimate:AssociationRelationship>

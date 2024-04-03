@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Create NCDF Mapping"
+    id="76417630-be55-4388-9708-e8ad628a2def"
+    documentation="The definition of the NCDF information exchnage specification is missed (what we currently are doing with the tool &quot;MessageBuilder&quot;). I think that here we consider the map process as a more general process where also the NCDF information selection and the NCDF message design happen. Suggest to make the concepts explicit."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NCDF Role"
+    id="fa819c06-661e-44e5-89f1-16d3f5c5f4d4"
+    documentation="a subject’s identity within an identity context is closely related to that subject’s interacting with the information systems within that context. And therefore that subject’s identity attributes are as well. Now if we investigate the interaction between subject and information systems, then we recognize that this interaction is usually explicitly designed: the information systems serve the subject, in a way that support that subject within the identity concept. And how this serving should take form can be captured by the role that the subject is playing in their interaction with the information systems. Thus, we need a concept that can represent that role; the label could be something like “Interaction role”. A definition for this concept:&#xD;&#xA;Interaction role:&#xD;&#xA;The responsibility that a subject has, or role that a subject plays, in the interaction with the information systems in a single identity context."/>

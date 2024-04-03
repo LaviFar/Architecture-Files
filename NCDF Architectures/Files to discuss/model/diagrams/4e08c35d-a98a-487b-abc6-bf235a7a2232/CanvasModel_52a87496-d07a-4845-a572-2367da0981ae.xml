@@ -1,0 +1,31 @@
+<canvas:CanvasModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
+    name="NAF 4 Viewpoints Grid"
+    id="52a87496-d07a-4845-a572-2367da0981ae"
+    documentation="https://tide.act.nato.int/em/index.php/Architecture_Viewpoint_Library">
+  <children
+      xsi:type="canvas:CanvasModelImage"
+      id="1599f659-3cb4-4847-b9ba-7376578dcbe0"
+      borderColor="#000000"
+      imagePath="images/_TCARwAFrEeqdLe_FS2l3Tg.jpg">
+    <bounds
+        x="24"
+        y="108"
+        width="1081"
+        height="733"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="3d474ffc-6fa4-473d-897b-da914577371d"
+      font="1|Segoe UI|20.0|0|WINDOWS|1|-40|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      borderColor="#ffffff"
+      content="https://tide.act.nato.int/em/index.php/Architecture_Viewpoint_Library"
+      textPosition="1">
+    <bounds
+        x="108"
+        y="852"
+        width="913"
+        height="85"/>
+  </children>
+</canvas:CanvasModel>

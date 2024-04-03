@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="standardizes "
+    id="436b67f7-7c99-424f-b7a9-83d381479bd6">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-33.xml#id-33"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_3ef5323f-8de6-405b-9f2e-853feb61336f.xml#3ef5323f-8de6-405b-9f2e-853feb61336f"/>
+</archimate:AssociationRelationship>

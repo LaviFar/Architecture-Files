@@ -1,0 +1,57 @@
+7572****76 Justin - Support Suffolk Node
+7573****79 Cody - Support Suffolk Node
+Adrian Francis - USA LEad
+Lanzo Wallace - J6 - Project Lead of Suffolk Node
+Christian "Woody" Specht - ACT - Air C2, MIP
+Chi Ngo
+Nico Bau - German - interoperability guy, background with MIP
+Mark Dotson
+Dominic Lecuyer NCIA - Hague - Technical - Asset Management, Data-Centric Security
+Rui Fiske NCIA - Hague - Policy - Interoperability and Secure Sharing
+Chuck Turnitsa
+Phil Guy - NCIA - Lead
+Vincenzo de Sortis - NCIA
+
+NCDF Tiger Team
+lead - Rydis Gertius
+Sec - Mark Dotson
+Purpose - primary, support CWIX, others
+
+Training tomorrow with Rydis and Phil Guy
+
+CWIX 22 planning - 
+ 1. Based on FMN service instruction (spiral 3) 
+ 2. Put draft instructions through a test
+ 3. Test is inmportant, to prepare for Final FMN Service Instruction Specification deadline of Nov 2022
+ 4. Each spiral is approx 2 years, so spiral 4 will be 2023, spiral 5 will be 2025. S0me think this is too fast)
+
+Tiger Team Topics
+ 1. Data Centric Information Security Gateway team - trying to bring them into CWIX 2022 testing
+    Above are developing software, a reusable module, based on CWIX21
+ 2. INTCOR program is about to release new version (October) - looking for a capability to automate mapping of NCDF to Semantic Reference Model
+ 3. Introduce Me - Training Session, Sept 10, 10-12
+ 4. Spiral 5 service instruction already drafted. CPWG guidelines being followed.
+ 
+ Phil - Looking to add manpower to help manage CWIX activities (scheduling, etc)
+ 
+ Rui - CWIX work includes
+    1. Working with Canadians to determine bindings for exchanged data to objects
+    2. Working with FMN profiles to compare the middle ware exchanges to align with what the agency desires (NCDF/Data Lake wise)
+    
+ Mark - Looking to stand up Data Lake node in Suffolk.  Starting with data and services etc from CWIX 2020
+    Need diagram of what the data lake looks like with all complimentary services and software, etc - may be an architecture (me) product
+    Focus on medical exchanges (as in CWIX 2021) - data came from Rydis
+ 
+ Next Meeting - two weeks from today (Sept 23)
+  On agenda: Perhaps look at Objectives list for CWIX 2022
+ 
+ DMCAT - 18-22 October - Part on site in Brussels, Part online with Webex
+   4 hour virtual sessions
+   Tiger Team will meet during that time
+   FMN/Data Management Syndicate work at that time
+   
+ 
+ 
+ 
+ 
+ 

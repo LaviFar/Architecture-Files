@@ -1,0 +1,5 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Subject"
+    id="8b7992e1-175b-4488-b6c3-7181b891980a"
+    documentation="An ICT system can interact with digital services, in the form of machine-to-machine communications, which would require that system to be properly identified. Clearly, an IT system such as a web server is not a person. In the literature concerned with Identity &amp; Access Management, this is readily recognized. Here, usually the term “Subject” is being used. A definition for Subject given in NIST special publication 800-63-3 (Grassi, Garcia, &amp; Fenton, 2017) is: “A person, organization, device, hardware, network, software, or service.” I would like to note that in this definition, device and hardware appear to be synonyms, and a network could either be seen as a service, or as a type of device. The Subject is a concept of type Actor, but it can be specialized into Person, Entity, System or Device. All are Business actors, as all are entities capable of performing behaviour."/>

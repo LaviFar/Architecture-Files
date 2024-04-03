@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="generates NCDF"
+    id="1f782529-2da0-438d-9aa6-a619a369cff2">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-33.xml#id-33"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_5447d0e3-7399-4090-9ad8-14bf527fc225.xml#5447d0e3-7399-4090-9ad8-14bf527fc225"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Federated"
+    id="05e96e02-1bed-46a4-b604-f3991d214d3f"
+    documentation=" The capabilities have to be designed with the assumption of the lack of a single authoritative element within network. All contributing Affiliates are autonomous and independent in their decisions with regards of level of participation. Mission networks will be decentralized in their nature, allowing for easy scalability and configurability."/>

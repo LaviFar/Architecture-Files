@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pointer"
+    id="2c3d91c8-7661-4854-a28b-1a9501f14fca"
+    documentation="The Pointer is a link from tthe NCDF Object Metadata element to the NCDF Information Object itself. This is needed to retrieve the information object following a search of the metadata."/>

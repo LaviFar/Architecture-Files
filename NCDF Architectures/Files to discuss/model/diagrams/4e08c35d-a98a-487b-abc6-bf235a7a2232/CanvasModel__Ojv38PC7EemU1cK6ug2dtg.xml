@@ -1,0 +1,55 @@
+<canvas:CanvasModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
+    name="NCDF A2.1 ArchiMate 3.0 Notation Overview"
+    id="_Ojv38PC7EemU1cK6ug2dtg"
+    documentation="Overview of Archimate Elementes and Colors">
+  <children
+      xsi:type="canvas:CanvasModelImage"
+      id="_Ojv38fC7EemU1cK6ug2dtg"
+      name="Image"
+      imagePath="images/_701A8ODaEeiKLZSTGEgXxg.png"
+      locked="true">
+    <bounds
+        x="460"
+        y="18"
+        width="501"
+        height="133"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelImage"
+      id="_Ojv38vC7EemU1cK6ug2dtg"
+      name="Image"
+      imagePath="images/_p1Bo8ODZEeiKLZSTGEgXxg.png"
+      locked="true">
+    <bounds
+        x="10"
+        y="150"
+        width="1401"
+        height="756"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelImage"
+      id="_Ojv38_C7EemU1cK6ug2dtg"
+      name="Image"
+      imagePath="images/_2qHsEODZEeiKLZSTGEgXxg.png"
+      locked="true">
+    <bounds
+        x="20"
+        y="70"
+        width="221"
+        height="75"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelImage"
+      id="_Ojv39PC7EemU1cK6ug2dtg"
+      name="Image"
+      imagePath="images/_Did3gODaEeiKLZSTGEgXxg.png"
+      locked="true">
+    <bounds
+        x="1160"
+        y="78"
+        width="240"
+        height="59"/>
+  </children>
+</canvas:CanvasModel>

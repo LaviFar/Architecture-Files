@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Name"
+    id="09e24092-e392-48bf-879d-7a0935913c0d"
+    documentation="The definitions for Subject and for Digital identity, when taken together, support the notion that any subject can be uniquely identified, using an identity attribute, or set thereof. Note, however, that this requiresanother definition: that of the identity attribute. NIST special publication 800-63-3 (Grassi, Garcia, &amp; Fenton, 2017) has this to say: “Attribute: a quality or characteristic ascribed to someone or something”. That’s not specific enough, but we can augment this by inserting “subject” instead of “someone or something”, and add the idea of identification. The result is the following:&#xD;&#xA;Identity attribute:&#xD;&#xA;A quality or characteristic ascribed to a subject, and suitable to distinguish an individual subject from other subjects within a given context."/>

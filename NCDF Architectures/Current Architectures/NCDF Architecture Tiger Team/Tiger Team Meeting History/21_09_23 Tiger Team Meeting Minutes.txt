@@ -1,0 +1,46 @@
+Rui Fiske
+ Two colleagues - Paris and Dan - do the working parts of CWIX 2022
+Phil Guy
+Rytis Girdzius
+Vincenzo de Sortis
+John Lewis
+Nico Bau
+Mark Dotson
+Me
+
+To get a testing account, in the test env - send an email to:
+ Rytis and/or Phil
+
+Architecture Update
+ workshops - USA, Switzerland, Belgium, UK
+ start 1st week of October
+
+Post CWIX 2021 Analysis
+ Request to analyze artifacts
+ Sessions run by Germany, analyzing the artifacts...
+  Map COI item to the Semantic Reference Model?
+  How it was done?
+  Rytis - We should have a workshop on how to do a mapping (to SRM, etc)
+  Mark - This should be done, also some idea about what the business process is...
+  Nico - Raises point -> what we did at CWIX, was prototype activity, not ideal. We should try to separate the prototype from how it should be in the future.
+  Rytis - which domains? which examples?
+  Mark - recommend - Medical and CBRN
+  Rytis - Artifacts:
+          1. How to do mapping
+          2. Mapping tables
+          3. Mapped artifacts
+  NICO - what is the goal of this workshop?  Medical workshop, would focus on Medical mappings... but not useful to review last year's XSLT documents?
+  Vincenzo - We should be talking about process - example, what if we need to introduce an extension to an entity in the SRM?
+  Nico - Agreed
+  <discussion>
+  Rytis - Is there an artifact describing process? Overall enterprise process for NCDF?
+  Phil - We have been thinking of those in the past, but not able to find them
+  Rytis - Need follow up to CWIX, and need to investigate this process question
+
+Action Item: Build out (C2, C4) with identification of key processes
+             How to maintain artifacts developed in exercises?
+             How to document the process?
+
+See Briefing "NCDF MSaas_Oct2019_final.ppt" - slide 22
+
+  

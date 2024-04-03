@@ -1,0 +1,53 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NCDF Capabilites"
+    id="47d8bad2-6905-43d6-af1b-870d8460c5f8"
+    documentation="Current Custodian: Severin Waber (CHE)&#xD;&#xA;Initially created by: Severin Waber (CHE)&#xD;&#xA;Rationale: - Collection and decomposition of all high level capablities of NCDF"
+    viewpoint="strategy">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="214bc948-41ec-45c0-9eb0-209bd41f1a75">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="3bf2df9f-ebbe-4f45-8835-8ad366ab38b8"
+        source="214bc948-41ec-45c0-9eb0-209bd41f1a75"
+        target="c7400c12-e7d9-405f-a787-b67979f45b83">
+      <archimateRelationship
+          xsi:type="archimate:AggregationRelationship"
+          href="AggregationRelationship_88403397-5564-4dc0-824a-45fbae3ba463.xml#88403397-5564-4dc0-824a-45fbae3ba463"/>
+    </sourceConnections>
+    <bounds
+        x="492"
+        y="119"
+        width="148"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_8fd03531-28bc-4e0e-b92d-3eab07e61d69.xml#8fd03531-28bc-4e0e-b92d-3eab07e61d69"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="c7400c12-e7d9-405f-a787-b67979f45b83"
+      targetConnections="3bf2df9f-ebbe-4f45-8835-8ad366ab38b8">
+    <bounds
+        x="252"
+        y="240"
+        width="148"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_9b07aacc-279a-4bc7-9880-3d83d8065d73.xml#9b07aacc-279a-4bc7-9880-3d83d8065d73"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="0ec1ca28-60b6-41df-8caa-6ebfe9eac1db"
+      textAlignment="1"
+      content="What are the main capabilites that the NCDF Framework">
+    <bounds
+        x="24"
+        y="12"
+        width="217"
+        height="61"/>
+  </children>
+</archimate:ArchimateDiagramModel>
